@@ -1,4 +1,4 @@
-# IoT_ATS_AMF with ESP8266
+# IoT_ATS_AMF with ESP8266 : The Convenient Solution for Electrical Management
 
 This project involves using an ESP8266 microcontroller and the ZMPT101B voltage sensor to build a convenient and efficient electrical management system that monitors the voltage of AC electrical systems and controls a relay through a WiFi connection.
 
